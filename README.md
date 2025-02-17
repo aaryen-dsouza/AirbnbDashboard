@@ -5,6 +5,8 @@ This Tableau dashboard provides insightful visualizations of Airbnb listings, fo
 
 ![Alt Text](Images/Dashboard.png)
 
+[View the Tableau Dashboard](https://public.tableau.com/views/AirBnBDashboard_17397622306230/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Features
 - **Average Price per Bedroom**: Bar chart depicting price trends based on the number of bedrooms.
 - **Geospatial Analysis**: A map view displaying the average price per zip code.
